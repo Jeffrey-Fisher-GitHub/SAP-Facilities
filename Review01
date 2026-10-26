@@ -1,0 +1,170 @@
+I completed the full review of the proposals in **Jeffrey-Fisher-GitHub/SAP-Facilities**, scored them against your RFP criteria, and published the analysis on a separate branch with a pull request. I did **not** modify or merge the original proposal files.
+
+## Overall ranking
+
+| Service | Proposal | Score | Rank | Assessment |
+|---|---|---:|---:|---|
+| Lawn | Jastrem 01/02 | **64/100** | **1** | Preferred finalist, but requires scope and price revision |
+| Lawn | Bates combined | **61/100** | **2** | Strong price; cemetery scope currently unacceptable |
+| Lawn | Bates 02 — Campus | 66/100 | — | Good campus proposal |
+| Lawn | Bates 01 — Cemeteries | 56/100 | — | Too much cemetery converted to meadow/natural |
+| Snow | Jastrem Snow 26–27 | **72/100** | **1** | Stronger budget predictability and Parish-wide model |
+| Snow | Bates combined | **62/100** | **2** | Good operational detail; greater cost variability |
+| Snow | Bates 05 — Campus | 67/100 | — | Strongest Bates snow component |
+| Snow | Bates 03 — Sacred Heart | 59/100 | — | Missing hard 36-hour SLA |
+| Snow | Bates 04 — St. Ann Cemetery | 58/100 | — | Missing hard 36-hour SLA |
+
+**Jastrem 01 and Jastrem 02 are exact duplicates**, including the same GitHub file hash, so I counted them as one proposal.
+
+## Lawn: the pricing difference is significant
+
+Bates' base pricing is:
+
+| Property | Bates |
+|---|---:|
+| Main Campus | $19,075.10 |
+| Cemeteries | $27,684.96 |
+| **Base combined** | **$46,760.06** |
+
+When I add Bates' quoted fertilization, second cemetery fall cleanup, campus weed control, additional pruning and fertilization to make the comparison more similar to Jastrem, Bates comes to approximately **$57,880.66**.
+
+Jastrem's service subtotal is **$76,581.50**, with a displayed total after tax of **$77,650.49**.
+
+That puts Jastrem approximately **$18,701, or 32.3%, above the expanded Bates comparison**.
+
+But that comparison is still not fair enough to award the contract. Bates gets part of its savings by proposing substantial cemetery acreage become meadow/natural grass and only receive field mowing twice annually. Jastrem is currently pricing much more regular cemetery mowing.
+
+That is why I recommend **not using either current headline price for final scoring**.
+
+### Bates lawn
+
+Bates has several strengths. Its campus proposal is detailed, provides **26 mowing visits**, spring/fall cleanup, pruning, mulch and four free account-manager inspections. It also recognizes the school/playground environment and important Parish holidays.
+
+The major problem is the cemetery proposal. Bates explicitly says the goal is to reduce regular mowing and move the **upper fields** toward field/meadow mowing twice a year. I agree with your concern: **too much of Saint Ann Cemetery becomes natural grass under the Bates proposal.**
+
+The Parish—not Bates—should determine exactly which property becomes naturalized.
+
+There are also contract provisions I would reject or renegotiate: Bates' standard agreement says its agreement controls in a conflict; charges **2.5% per month/30% annualized** on late invoices; provides a 25% minimum collection charge; allows fairly broad extra-work/change-order triggers; allows certain material substitution in its discretion; and contains evergreen-renewal language.
+
+### Jastrem lawn
+
+Jastrem's proposal is operationally cleaner because all three properties are incorporated into one program. It also uses the better turf-management concept of removing no more than one-third of the grass blade per mowing rather than simply mowing on a calendar.
+
+However, Jastrem is currently **over-maintaining Saint Ann Cemetery relative to what you now want**, which is contributing substantially to its $39,866.40 Saint Ann Cemetery mowing price.
+
+For the revised Jastrem proposal, I specifically recommend:
+
+> **The Parish-designated first half of Saint Ann Cemetery shall be maintained as a natural-grass/meadow zone, except for identified roadway buffers, entrances, active burial areas, visitor/monument corridors, sight lines, and emergency-access areas.**
+
+The words **"first half" should not appear by themselves in the contract**. It needs to be drawn on a map and signed by both parties.
+
+Then require Jastrem to show the actual dollar reduction from the current **$39,866.40 Saint Ann Cemetery mowing charge**. They should provide separate rates for regular mowing and natural/meadow maintenance. Otherwise Saint Ann cannot determine whether the reduction in scope produces a fair reduction in price.
+
+For fairness, **Bates must then price that exact same map**. Bates should no longer be permitted to choose a much larger natural area.
+
+That single step will finally give you a legitimate apples-to-apples comparison.
+
+---
+
+# Snow: Jastrem currently has the stronger structure
+
+Jastrem's snow proposal has a particularly useful budgeting structure:
+
+| Seasonal accumulation | Campus | Cemeteries | Combined |
+|---|---:|---:|---:|
+| Under 12" | $36,000 | $9,000 | **$45,000** |
+| 12–24" | $40,000 | $10,000 | **$50,000** |
+| Each additional 12" | +$8,000 | +$2,000 | **+$10,000** |
+
+Its disclosed special/T&M rates are also fairly straightforward: plow truck with operator **$135/hour**, skid steer **$135/hour**, loader **$250/hour**, shoveling **$75/person-hour**, Snowrator **$140/hour**, and tri-axle hauling **$300/hour**.
+
+The major thing that still needs clarification is **what deicing labor and materials are included in those seasonal amounts**. I would not sign Jastrem until that is explicit.
+
+Jastrem also says it will make reasonable efforts to have walks ready around **7:00 AM**. That is directionally good, but "reasonable effort" should become a contractual service standard.
+
+I recommend:
+
+> **On Holy Family School days, designated parking, ADA routes, entrances, emergency access and primary sidewalks shall be cleared and treated for safe use by 7:00 AM unless Saint Ann provides a different opening time.**
+
+That gives a substantial safety margin before the 7:45–8:00 AM student-arrival period.
+
+### Bates snow
+
+Bates' main-campus pricing is much more event-driven:
+
+| Snow event | Bates campus |
+|---|---:|
+| 0–2" | $1,300 |
+| 2.1–4" | $1,757.50 |
+| 4.1–6" | $2,465 |
+| 6.1–8" | $3,625 |
+| Above 8" | +$1,143/inch |
+| Road/parking deicing | $465/application |
+| Walkway deicing | $720/application |
+
+This can work well in a low-snow winter, but it creates considerably greater **budget volatility**, especially because long-duration events, ice storms, drifting, municipal replowing and other conditions can create additional charges.
+
+For example, even a hypothetical campus season of nine moderate snow events produces about **$18,158** before ordinary deicing. One roadway plus walkway deicing treatment for each of those storms would push that hypothetical campus cost to roughly **$28,823**, before cemetery snow costs.
+
+That doesn't make Bates expensive or inexpensive by itself; it illustrates why the Parish needs a **common modeled winter** before comparing Bates' event pricing to Jastrem's seasonal pricing.
+
+There is also a major contractual omission in both Bates cemetery proposals: I did not find a hard commitment corresponding to Saint Ann's requirement that cemetery roads be cleared **within 36 hours after snowfall ends**.
+
+That must be inserted expressly.
+
+---
+
+# Changes I recommend before either award
+
+The largest improvement is to issue **one identical Best and Final Offer (BAFO) addendum to both companies**. It should establish the signed lawn-zone maps, identical natural-grass boundaries, school safety periods, cemetery/funeral requirements, snow SLAs, equipment commitments and the same pricing assumptions.
+
+I also recommend making the contract hierarchy explicit:
+
+> **Final Saint Ann Contract/Addendum → Saint Ann RFP and maps → Vendor BAFO → Vendor Proposal → Vendor standard terms.**
+
+This prevents Bates' or Jastrem's boilerplate from quietly overriding the RFP.
+
+For lawn care, I added requirements for a 3–3.5-inch manicured turf standard, the one-third rule, clipping removal, cemetery monument protection, electronic service reporting, natural-zone management, funeral coordination and Holy Family School restrictions of **7:40–8:15 AM and 2:40–3:15 PM**.
+
+For snow, I added the **7:00 AM school-day readiness requirement**, mandatory **36-hour cemetery clearing**, documented refreeze monitoring, no ordinary holiday surcharge, controls on T&M, written approval for snow hauling, and protection against double billing a snowfall tier plus T&M for the same ordinary work.
+
+I also recommend changing the procurement process so certain items are **pass/fail before scoring**: current COI, applicable pesticide credentials, three references, staffing/equipment commitment, subcontractor disclosure, signed maps, school-safety acceptance and the cemetery snow SLA.
+
+Neither proposal currently gives Saint Ann enough of that information.
+
+## Contract terms worth tightening
+
+I would negotiate toward **Net 30**, no mandatory credit card on file, no automatic evergreen renewal, written Parish authorization for renewal, and a 30-day Parish convenience-termination provision.
+
+I would also eliminate unilateral fuel/material price changes. If Saint Ann accepts escalation at all, it should be based on a defined published index/formula with an annual cap.
+
+For a multi-year agreement, I would prefer a clearly specified second/third-year increase—such as an agreed CPI-U methodology with a maximum cap—rather than an automatic undefined increase.
+
+Insurance limits should be finalized with the Parish insurer/counsel, but the addendum I prepared uses commercial benchmarks such as **$1M CGL occurrence/$2M aggregate, $1M commercial auto, statutory workers compensation and an agreed umbrella limit** as negotiating placeholders.
+
+---
+
+# My selection position today
+
+For **lawn care**, I would keep **both firms in the competition**. Jastrem is my provisional #1 because its current scope and turf program are more coherent, but I would **not pay the current $76,581.50 without first receiving a substantial credit for naturalizing the Parish-selected first half of Saint Ann Cemetery**. Bates could become #1 if it accepts the exact same natural-area map and maintains a meaningful normalized cost advantage.
+
+For **snow**, I would put **Jastrem first** because the seasonal structure provides better cost predictability and its campus approach is closer to Saint Ann's operating requirements. I would still require clarification of deicing/material inclusions. Bates should be asked to provide a **Parish-wide seasonal cap/not-to-exceed alternative** to its per-event pricing; that could materially improve its competitive position.
+
+Most importantly, **I would not sign either vendor's current standard contract unchanged**.
+
+## Posted to GitHub
+
+I created the branch:
+
+`proposal-evaluation-2026-10-26`
+
+It contains:
+
+- `evaluation/2026-10-26-proposal-evaluation.md` — full scoring, pricing analysis, merits, shortcomings and recommendation.
+- `evaluation/2026-10-26-bafo-contract-addendum.md` — the proposed common requirements to send to both vendors.
+
+I also opened **Pull Request #1: “Evaluate 2027 lawn and snow proposals.”**
+
+[Review Pull Request #1](https://github.com/Jeffrey-Fisher-GitHub/SAP-Facilities/pull/1)
+
+I left it **unmerged** so you can review the analysis and negotiation requirements before anything becomes part of `main`.
